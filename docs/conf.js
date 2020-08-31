@@ -56,7 +56,7 @@ jsproxy_config({
    */
   // node_default: 'mysite',
   //node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
-  node_default: mysite,
+  node_default: 'mysite',
   /**
    * 加速节点
    */
